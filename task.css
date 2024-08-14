@@ -1,0 +1,93 @@
+header{
+    text-align: center;
+    background-color:orangered;
+    font-size: 25px;
+}
+.orchid-section {
+    background-color:orchid;
+    height: 250px;
+    text-align: center;
+}
+.slategray-section {
+    background-color: slategray;
+    height: 250px;
+    text-align: center;
+}
+.navajowhite-section {
+    background-color: navajowhite;
+    height: 280px;
+    text-align: center;
+}
+.green-section {
+    background-color: darkgreen;
+    height: 330px;
+    text-align: center;
+}
+.blue-section {
+    background-color: blue;
+    height: 100px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+.yellow-section {
+    background-color: yellow;
+    height: 50px;
+    color: black;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+}
+.table-section {
+    background-color: cyan;
+    padding: 10px;
+    text-align: center;
+}
+table {
+    width: 40%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: magenta;
+    color: white;
+}
+td:first-child {
+    background-color: lightgreen;
+    padding: 42px;
+}
+.highlight {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.mark{
+    background-color: yellow;
+    color: red;
+    padding: 2px;
+}
+.list
+
+{
+
+    font-size: 20px;
+}
+.list1
+
+{
+ font-size: 15px;
+
+}
+.v{
+
+    background-color: bisque;
+    font-size: 25px;
+    
+}
